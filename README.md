@@ -1,5 +1,3 @@
-]=]
-
 -- Instances: 171 | Scripts: 21 | Modules: 0 | Tags: 0
 local G2L = {};
 
